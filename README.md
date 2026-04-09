@@ -16,7 +16,7 @@ This project analyzes the evolutionary relationship of the KCNH4 gene across dif
 
 ## 🧬 Multiple Sequence Alignment
 
-![Alignment](images/alignment.png)
+![Alignment](images/alignment.jpg)
 
 ### Analysis
 
