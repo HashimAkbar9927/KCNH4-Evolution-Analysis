@@ -7,7 +7,7 @@ This project analyzes the evolutionary relationship of the KCNH4 gene across dif
 
 ##  Multiple Sequence Alignment
 
-![Alignment](images/KCNH4Seq.pdf)
+![Alignment](Desktop/KCNH4Seq.pdf)
 
 ### Analysis
 
@@ -21,5 +21,5 @@ This pattern reflects evolutionary conservation of the KCNH4 gene among vertebra
 
 ## 🌳 Phylogenetic Tree
 
-![Tree](images/KCNH$_sequence.png)
+![Tree](Desktop/KCNH4_sequence.png)
 
